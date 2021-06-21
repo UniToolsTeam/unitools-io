@@ -18,7 +18,7 @@ Add the following to `Packages/manifest.json` where x.x.x the version (tag) chec
 ```
 {
   "dependencies": {
-    "com.unitools.io": "https://github.com/Rinal/unitools-io.git#x.x.x",
+    "com.unitools.io": "https://github.com/UniToolsTeam/unitools-io.git#x.x.x",
     "...": "..."
   }
 }
