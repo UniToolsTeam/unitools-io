@@ -8,13 +8,12 @@ namespace UniTools.IO
 
         public string Value
         {
-            get => m_value;
             set => m_value = value;
         }
 
         public override string ToString()
         {
-            return Value;
+            return m_value;
         }
     }
 }
