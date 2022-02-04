@@ -1,3 +1,5 @@
+# This tool is legacy and not supported anymore, please use [UniTools Build](https://github.com/UniToolsTeam/unitools-build)
+
 # UniTools IO
 This packages create as a handy tool to work with IO and paths using Scriptable Objects inside Unity Editor
 
